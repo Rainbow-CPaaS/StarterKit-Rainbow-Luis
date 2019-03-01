@@ -21,7 +21,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "ssh://git@git.openrainbow.org:2223/github/Rainbow-CPaaS/rainbow-luis-sample.git"
+    "url": "https://github.com/Rainbow-CPaaS/StarterKit-Rainbow-Luis.git"
   },
   "keywords": [
     "Rainbow",
