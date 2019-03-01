@@ -1,0 +1,31 @@
+{
+  "name": "rainbow-luis-sample",
+  "version": "1.0.0",
+  "description": "Sample Rainbow bot interacting with Microsoft Luis",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alcatel-Lucent Enterprise",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "config": "^3.0.1",
+    "rainbow-node-sdk": "^1.52.0",
+    "winston": "^3.2.1"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git.openrainbow.org:2223/github/Rainbow-CPaaS/rainbow-luis-sample.git"
+  },
+  "keywords": [
+    "Rainbow",
+    "Luis",
+    "bot"
+  ]
+}

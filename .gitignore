@@ -1,0 +1,4 @@
+/node_modules/
+/config/local.json
+/bot_env_file.local
+/logs

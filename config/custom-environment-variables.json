@@ -1,0 +1,22 @@
+{
+    "rainbowOptions": {
+        "rainbow": {
+            "host": "RAINBOW_HOST"
+        },
+        "credentials": {
+            "login": "RAINBOW_BOT_LOGIN", 
+            "password": "RAINBOW_BOT_PASSWORD"
+        },    
+        "application": {
+            "appID": "RAINBOW_APPID",
+            "appSecret": "RAINBOW_APPSECRET"
+        }
+    },
+    "luis": {
+        "ENDPOINT": "LUIS_ENDPOINT"
+    },
+    "openweathermap": {
+        "API_Key": "OWM_API_KEY",
+        "API_URL": "OWM_API_URL"
+    }
+}
