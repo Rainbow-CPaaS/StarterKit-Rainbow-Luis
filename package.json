@@ -10,7 +10,7 @@
   "author": "Alcatel-Lucent Enterprise",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": ">=0.19.0",
     "config": "^3.0.1",
     "rainbow-node-sdk": "^1.52.0",
     "winston": "^3.2.1"
